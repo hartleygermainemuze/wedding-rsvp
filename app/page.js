@@ -38,7 +38,7 @@ export default function WeddingRSVP() {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-pink-200 via-yellow-100 to-blue-200">
         <div className="bg-white p-10 rounded-2xl shadow-xl text-center max-w-md">
-          <h1 className="text-3xl font-serif mb-4">Germaine & Hartley</h1>
+          <h1 className="text-3xl font-serif mb-4">Hartley & Germaine</h1>
           <p className="mb-6">Enter the password from your invitation to RSVP</p>
           <input
             type="password"
