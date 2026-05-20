@@ -27,7 +27,7 @@ export default function WeddingRSVP() {
   };
 
   const checkPassword = () => {
-    if (password.toLowerCase() === 'germainehartley2026') {
+    if (password.toLowerCase() === 'hartleygermaine2026') {
       setAuthorized(true);
     } else {
       alert('Incorrect password. Please check your invite.');
