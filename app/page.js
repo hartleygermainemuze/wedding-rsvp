@@ -61,7 +61,7 @@ export default function WeddingRSVP() {
   return (
     <div className="min-h-screen font-sans text-gray-800 bg-gradient-to-br from-pink-100 via-yellow-50 to-blue-100">
       <header className="text-center py-20">
-        <h1 className="text-6xl font-serif mb-6">Germaine Koh & Hartley Muze</h1>
+        <h1 className="text-6xl font-serif mb-6">Hartley Muze & Germaine Koh</h1>
         <p className="text-2xl">10 October 2026</p>
         <p className="text-xl mt-2">Jurong Christian Church</p>
       </header>
